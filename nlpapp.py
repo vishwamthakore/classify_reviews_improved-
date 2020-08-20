@@ -25,7 +25,7 @@ import re
 
 
 
-classifier= pickle.load(open( "classifier_new.pkl", "rb" ))
+# classifier= pickle.load(open( "classifier_new.pkl", "rb" ))
 
 # with gzip.open('classifier.pkl.gz', 'wb') as f:
 # 	pickle.dump(classifier, f, protocol=-1)
@@ -38,9 +38,9 @@ with gzip.open(filename, 'rb') as f:
 	w2v_model=pickle.load(f)
 	
 
-# filename='classifier.pkl.gz'
-# with gzip.open(filename, 'rb') as f:
-# 	classifier=pickle.load(f)
+filename='classifier.pkl.gz'
+with gzip.open(filename, 'rb') as f:
+	classifier=pickle.load(f)
 
 
 
