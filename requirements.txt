@@ -10,3 +10,4 @@ scikit-learn==0.22.2.post1
 scipy==1.4.1
 seaborn==0.10.0
 WTForms==2.2.1
+gensim==3.8.3
