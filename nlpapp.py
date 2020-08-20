@@ -10,7 +10,7 @@ import pandas as pd
 # import matplotlib.pyplot as plt
 # import seaborn as sns
 # import nltk
-# from gensim.models import Word2Vec
+from gensim.models import Word2Vec
 # from gensim.models import KeyedVectors
 
 import pickle
