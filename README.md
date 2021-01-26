@@ -1,7 +1,7 @@
 # Classify Movie Reviews
 
-This is a movie review classification webapp hosted on heroku
-[webapp link](https://vishwamthakorenlp.herokuapp.com/Home)
+This is a movie review classification webapp hosted on heroku.
+[webapp_link](https://vishwamthakorenlp.herokuapp.com/Home)
 
 ## Details
 
